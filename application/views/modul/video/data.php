@@ -18,7 +18,7 @@
 		<?php if($user->activation_code=='1' ){ ?>
 				<!-- keterangan modul-->
 				 <div class="callout callout-warning">
-                        Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CAT-Prakom.com<br/>
+                        Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CASN-Guru.com<br/>
 						   <b>Terima kasih telah donasi.</b>
                         </div>
 						
@@ -48,7 +48,7 @@
                     <?php }elseif($user->activation_code=='2' ){ ?>
 				<!-- keterangan modul-->
 				 <div class="callout callout-warning">
-                        Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CAT-Prakom.com<br/>
+                        Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CASN-Guru.com<br/>
 						   <b>Terima kasih telah donasi.</b>
                         </div>
 						
@@ -78,7 +78,7 @@
                      <?php }elseif($user->activation_code=='3' ){ ?>
 				<!-- keterangan modul-->
 				 <div class="callout callout-warning">
-                        Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CAT-Prakom.com<br/>
+                        Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CASN-Guru.com<br/>
 						   <b>Terima kasih telah donasi.</b>
                         </div>
 						
@@ -116,8 +116,8 @@
 }
 	</style>
 	 <div class="callout callout-warning">
-                           Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CAT-Prakom.com<br/>
-						   <b>Konsep Penyusunan Bank Soal CAT-Prakom bersumber dari :</b><br/>
+                           Video Materi Belajar akan diperbaharui setiap waktu, sesuai Tema Materi Ujian sesuai Kisi-kisi MenpanRB. Jadi pantau terus website CASN-Guru.com<br/>
+						   <b>Konsep Penyusunan Bank Soal CASN-Guru bersumber dari :</b><br/>
 - FR Ujian CPNS SKB Prakom 2021<br/>
 - FR Ujian PPPK Teknis Prakom 2022 & 2023<br/>
 - Kisi-kisi permenpanRB<br/>
@@ -127,7 +127,7 @@
                         <?php if(($user->activation_selector=='1' && $user->activation_code=='0' && $user->remember_selector!='15' )){ ?>
 <div class="callout callout-warning">
                            Silakan Donasi <del>Rp 100.000</del> <b>Rp 50.000</b>&nbsp;<span class="badge badge-danger">Alumni 2023</span>,untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
-						   <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
+						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
 						<img src="../assets/logo/qris_new.png" class="center"/>
 						 <h4 align="center"><b>Rp 51.<?=substr($mhs->no_peserta,4,3)?></b></h4>
@@ -140,7 +140,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CAT-Prakom.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_51<?=substr($mhs->no_peserta,4,3)?>
@@ -151,7 +151,7 @@
 						<?php }elseif(($user->activation_selector=='0' && $user->activation_code=='0' && $user->remember_selector!='15')){ ?>
 <div class="callout callout-warning">
                            Silakan Donasi <b>Rp 100.000</b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
-						   <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
+						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
 						<img src="../assets/logo/qris_new.png" class="center"/>
 						 <h4 align="center"><b>Rp 101.<?=substr($mhs->no_peserta,4,3)?></b></h4>
@@ -164,7 +164,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CAT-Prakom.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_101<?=substr($mhs->no_peserta,4,3)?>
@@ -174,7 +174,7 @@
                         <?php }elseif($user->remember_selector=='15' && $user->activation_code=='0'){ ?>
 <div class="callout callout-warning">
                            Silakan Donasi <b>Rp 35.000</b>&nbsp;<span class="badge badge-success">Paket Fokus SKD CPNS</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
-						   <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
+						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
 						<img src="../assets/logo/qris_new.png" class="center"/>
 						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
@@ -187,7 +187,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CAT-Prakom.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>

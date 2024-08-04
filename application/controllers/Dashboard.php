@@ -88,7 +88,7 @@ class Dashboard extends CI_Controller {
 		$data = [
 			'user' => $this->ion_auth->user()->row(),
 			'judul'		=> 'Dashboard',
-			'subjudul'	=> 'Survei Peserta CAT-Prakom',
+			'subjudul'	=> 'Survei Peserta CASN-Guru',
 		];
 		$cek_id = $user->username;
 		if ($this->ion_auth->is_admin()) {
@@ -111,7 +111,7 @@ class Dashboard extends CI_Controller {
 		$data = [
 			'user' => $this->ion_auth->user()->row(),
 			'judul'		=> 'Dashboard',
-			'subjudul'	=> 'Survei Peserta CAT-Prakom',
+			'subjudul'	=> 'Survei Peserta CASN-Guru',
 		];
 		$cek_id = $user->username;
 		if ($this->ion_auth->is_admin()) {

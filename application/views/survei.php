@@ -39,8 +39,8 @@
                     </div>
                     
                     <div class="form-group">
-                        <label for="email">Testimoni terhadap Layanan CAT-Prakom</label>
-                        <textarea placeholder="Berikan testimoni /Ulasan/Review anda terkait adanya Layanan CAT-Prakom" type="text" name="testimoni" class="form-control" required></textarea>
+                        <label for="email">Testimoni terhadap Layanan CASN-Guru</label>
+                        <textarea placeholder="Berikan testimoni /Ulasan/Review anda terkait adanya Layanan CASN-Guru" type="text" name="testimoni" class="form-control" required></textarea>
                         <small class="help-block"></small>
                     </div>
                    

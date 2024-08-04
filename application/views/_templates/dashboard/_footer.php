@@ -7,7 +7,7 @@
 			<footer class="main-footer">
 				<!-- To the right -->
 				<div class="pull-right hidden-xs">
-					Computer Assisted Test CASN Pranata Komputer 2023-2024
+					Computer Assisted Test CASN Guru 2024
 				</div>
 				<!-- Default to the left -->
 				<!--<strong>Copyright &copy; 2019. By <a href="https://instagram.com/mghifariarfan">Muhammad Ghifari Arfananda</a>. </strong> All rights reserved-->

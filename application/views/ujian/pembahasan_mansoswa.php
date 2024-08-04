@@ -97,7 +97,7 @@ echo '<div class="row">
         <div class="box box-primary">
             <div class="box-header with-border">
                 <h3 class="box-title"><span class="badge bg-blue">Soal '.$no.'</span> </span></h3>
-		&nbsp;&nbsp;&nbsp;&nbsp;<span class="badge bg-red">Tryout CAT | eBook PDF | Video Materi | Kunjungi www.CAT-Prakom.com</span>
+		&nbsp;&nbsp;&nbsp;&nbsp;<span class="badge bg-red">Tryout CAT | eBook PDF | Video Materi | Kunjungi www.CASN-Guru.com</span>
                 <div class="box-tools pull-right">
                     <span class="badge bg-green">Jawaban & Pembahasan</span>
                     <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
@@ -300,7 +300,7 @@ echo '<div class="step" id="widget_'.$no.'">';
 			
 				
     echo '<div class="alert alert-default">
-	<span class="label label-default">ID Member CAT-Prakom : '.$id_mhs.'</span>
+	<span class="label label-default">ID Member CASN-Guru : '.$id_mhs.'</span>
   <span class="label label-primary"> Anda Memilih Pilihan '.$value[$no-1].'</span>'.$pilihan_anda.'
           <hr/><strong>Pembahasan :</strong> <br/>'.implode('</p><p>', preg_split('/\R+/', $s->pembahasan)).'
          <br/>';

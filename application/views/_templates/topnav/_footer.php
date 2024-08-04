@@ -8,7 +8,7 @@
 	<div class="container">
 		<?= strftime('%A, %d %B %Y') ?>, <span class="live-clock"><?= date('H:i:s') ?></span>
 		<div class="pull-right hidden-xs">
-			<b>CAT CASN Pranata Komputer</b>
+			<b>CAT CASN Guru</b>
 		</div>
 	</div>
 	<!-- /.container -->

@@ -8,7 +8,7 @@
   width: 70%;
 }
 	</style>
-	<img src="http://cat-prakom.com/assets/logo/logo.png"  class="center"/>
+	<img src="http://casn-guru.com/assets/logo/logo.png"  class="center"/>
 
 	<div class="login-box-body">
 		<div class="row">

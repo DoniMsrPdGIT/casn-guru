@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Testimonial Alumni CAT-Prakom yang Lulus</title>
+<title>Testimonial Alumni CASN-Guru yang Lulus</title>
 <style>
     body {
         display: flex;

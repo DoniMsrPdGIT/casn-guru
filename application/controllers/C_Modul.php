@@ -81,7 +81,7 @@ public function aksi_video(){
 		$edisi = $this->input->post('edisi');
 		$tgl 	 = date('dmYhis');
 
-		$nama_file = 'CAT-Prakom_eBook';
+		$nama_file = 'CASN-Guru_eBook';
 		$acak= random_string('alnum', 5);
 		$angka= random_string('numeric', 5);
 		

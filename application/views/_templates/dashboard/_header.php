@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title><?=$judul?></title>
-	 <link rel="icon" type="image/x-icon" href="https://cat-prakom.com/assets/logo/favicon.ico">
+	 <link rel="icon" type="image/x-icon" href="https://casn-guru.com/assets/logo/favicon.ico">
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 	
 	<!-- Required CSS -->

@@ -1,6 +1,6 @@
-# cat-prakom
+# CASN-Guru
 
-Aplikasi CAT-Prakom
+Aplikasi CASN-Guru
 
 <h1>Catatan</h1>
 <p>Disarankan upgrade PHP ke versi terbaru (7.3 atau lebih tinggi)</p>
