@@ -1,6 +1,6 @@
 <a href="<?=base_url('dashboard')?>" class="logo">
     <span class="logo-mini"><b>CAT CASN</b></span>
-    <span class="logo-lg"><b>CAT Prak</b>om </span>
+    <span class="logo-lg"><b>CASN Guru</b></span>
 </a>
 
 <nav class="navbar navbar-static-top" role="navigation">

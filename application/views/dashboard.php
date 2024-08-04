@@ -63,7 +63,7 @@
             </div>
 	
             <div class="box-body">
-                <p>Fitur Website CAT CASN Prakom :<br />- 1.900++ Bank Soal, diacak by system🌟<br />- Soal selalu Update tiap hari🌟<br />- Tryout CAT dibagi per Sesi🌟<br />- Informasi Passing Grade tiap Sesi🌟<br />- PDF Soal Tryout dan Pembahasan<br />- PDF Materi Pembelajaran<br />- Ranking Peserta per Sesi secara Nasional, 🌟<br />- Tryout Tanpa Batas dan Flexible, tanpa Jadwal<br />- Dilengkapi Timer<br />- Ada Aplikasi Androidnya, join di group telegram untuk mendapatkan Aplikasinya.<br />- Group Telegram utk Sharing Materi dan Aplikasi CASN Guru Android https://t.me/cat_prakom<br />- Sesuai kisi-kisi MenPanRB🌟<br />- Sesuai FR Peserta 2022🌟</p>
+                <p>Fitur Website CAT CASN Guru :<br />- 1.900++ Bank Soal, diacak by system🌟<br />- Soal selalu Update tiap hari🌟<br />- Tryout CAT dibagi per Sesi🌟<br />- Informasi Passing Grade tiap Sesi🌟<br />- PDF Soal Tryout dan Pembahasan<br />- PDF Materi Pembelajaran<br />- Ranking Peserta per Sesi secara Nasional, 🌟<br />- Tryout Tanpa Batas dan Flexible, tanpa Jadwal<br />- Dilengkapi Timer<br />- Ada Aplikasi Androidnya, join di group telegram untuk mendapatkan Aplikasinya.<br />- Group Telegram utk Sharing Materi dan Aplikasi CASN Guru Android https://t.me/casn_guru<br />- Sesuai kisi-kisi MenPanRB🌟<br />- Sesuai FR Peserta 2022🌟</p>
             </div>
 						
         </div>
@@ -139,7 +139,7 @@
 						<!--
 						<form method="post"  action="<?php echo "https://t.me/+EF4JX7tHUeI5NmM1"; ?>">
 						<button  type="submit"  class="btn btn-danger btn-sm" >Join Group Private Telegram </button>
-						<br/>Diskusi dan Membahas Materi Prakom dalam menghadapi Ujian PPPK 2024
+						<br/>Diskusi dan Membahas Materi Guru kelas dalam menghadapi Ujian PPPK 2024
 						</form>	
 						-->
             </div>
@@ -163,7 +163,7 @@
 						<!--
 						<form method="post"  action="<?php echo "https://t.me/+EF4JX7tHUeI5NmM1"; ?>">
 						<button  type="submit"  class="btn btn-danger btn-sm" >Join Group Private Telegram </button>
-						<br/>Diskusi dan Membahas Materi Prakom dalam menghadapi Ujian PPPK 2024
+						<br/>Diskusi dan Membahas Materi Guru kelas dalam menghadapi Ujian PPPK 2024
 						</form>	
 						-->
             </div>
@@ -187,7 +187,7 @@
 						<!--
 						<form method="post"  action="<?php echo "https://t.me/+EF4JX7tHUeI5NmM1"; ?>">
 						<button  type="submit"  class="btn btn-danger btn-sm" >Join Group Private Telegram </button>
-						<br/>Diskusi dan Membahas Materi Prakom dalam menghadapi Ujian PPPK 2024
+						<br/>Diskusi dan Membahas Materi Guru kelas dalam menghadapi Ujian PPPK 2024
 						</form>	
 						-->
             </div>
@@ -223,7 +223,7 @@
                         </div>
                         
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
                            Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
                            DCP_NAMA_NOHP_KODEUNIK<br/><br/>
                            Contoh : DCP_Andini_081234567890_51<?=substr($mhs->no_peserta,4,3)?>
@@ -236,7 +236,7 @@
             </div>
 	<div class="callout callout-warning">
       
-                           Silakan Donasi <b><font color="yellow" size="5px">Rp 100.000</font><b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Fitur Website :<br/>
+                           Silakan Donasi <b><font color="yellow" size="5px">Rp 35.000</font><b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Fitur Website :<br/>
                            <p>✅ Simulasi Tryout CAT Kompetensi Teknis/Bidang (30 Paket Soal)<br />
                 ✅ Simulasi Tryout CAT Sosiokultural (10 Paket Soal)<br />
                 ✅ Simulasi Tryout CAT Manajerial (10 Paket Soal)<br />
@@ -252,20 +252,20 @@
                         </div>
 						
 						<img src="assets/logo/qris_new.png" class="center"/>
-						 <h4 align="center"><b>Rp 101.<?=substr($mhs->no_peserta,4,3)?></b></h4>
+						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
-                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 100.000 + Nomor Peserta<br/>
+                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 35.000 + Nomor Peserta<br/>
 						 == Nomor Peserta Anda adalah <?=$mhs->no_peserta?> ==<br/>
-						 <b>Maka Donasi sebesar Rp. 101.<?=substr($mhs->no_peserta,4,3)?></b><br/>
+						 <b>Maka Donasi sebesar Rp. 35.<?=substr($mhs->no_peserta,4,3)?></b><br/>
 						 Pembayaran via QRIS diatas, Otomatis Teraktivasi. <br/> 🌟🌟 Akun Berlaku Selama CASN 2024
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
-						   Contoh : DCP_Andini_081234567890_101<?=substr($mhs->no_peserta,4,3)?>
+						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
 						   </br></br>
 						   <b>Admin akan melakukan pengecekan terlebih dahulu</b>
                         </div>
@@ -300,7 +300,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>

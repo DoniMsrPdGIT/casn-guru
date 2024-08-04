@@ -36,7 +36,7 @@
  
 
  
-	<p class="login-box-msg"><a href="/auth/testimonial"><button class="elegant-button">Testimoni Alumni 2023 yang Lulus ASN</button></a></p>
+	
 	<div id="infoMessage" class="text-center"><?php echo $message;?></div>
 
 	<?= form_open("auth/cek_login", array('id'=>'login'));?>

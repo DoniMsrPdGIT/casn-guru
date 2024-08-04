@@ -116,7 +116,7 @@ if($donasi == '0' && $trial=='0'){
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_51<?=substr($mhs->no_peserta,4,3)?>
@@ -126,24 +126,24 @@ if($donasi == '0' && $trial=='0'){
 
                         <?php }elseif(($user->activation_selector=='0' && $user->activation_code=='0' && $user->remember_selector!='15')){ ?>
 <div class="callout callout-warning">
-                           Silakan Donasi <b>Rp 100.000</b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
+                           Silakan Donasi <b>Rp 35.000</b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
 						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
 						<img src="../../assets/logo/qris_new.png" class="center"/>
-						 <h4 align="center"><b>Rp 101.<?=substr($mhs->no_peserta,4,3)?></b></h4>
+						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
-                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 100.000 + Nomor Peserta<br/>
+                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 35.000 + Nomor Peserta<br/>
 						 == Nomor Peserta Anda adalah <?=$mhs->no_peserta?> ==<br/>
-						 <b>Maka Donasi sebesar Rp. 101.<?=substr($mhs->no_peserta,4,3)?></b><br/>
+						 <b>Maka Donasi sebesar Rp. 35.<?=substr($mhs->no_peserta,4,3)?></b><br/>
 						 Pembayaran via QRIS diatas, Otomatis Teraktivasi. <br/> 🌟🌟 Akun Berlaku Selama CASN 2024
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
-						   Contoh : DCP_Andini_081234567890_101<?=substr($mhs->no_peserta,4,3)?>
+						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
 						   </br></br>
 						   <b>Admin akan melakukan pengecekan terlebih dahulu</b>
                         </div>
@@ -163,7 +163,7 @@ if($donasi == '0' && $trial=='0'){
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
