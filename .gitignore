@@ -15,7 +15,6 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
-/vendor/
 application/config/database.php
 application/uploads
 application/sql
