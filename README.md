@@ -6,9 +6,9 @@ Aplikasi CASN-Guru
 <p>Disarankan upgrade PHP ke versi terbaru (7.3 atau lebih tinggi)</p>
 <p>
    Kosongkan folder penyimpanan di localhost, lalu push seperti :
-   uploads/modul
-   uploads/testimonial
-   assets/pasfoto
+   <br/>uploads/modul
+   <br/>uploads/testimonial
+   <br/>assets/pasfoto
 </p>
 <h3>User</h3>
 <ul>
