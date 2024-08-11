@@ -116,7 +116,7 @@ if($donasi == '0' && $trial=='0'){
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_51<?=substr($mhs->no_peserta,4,3)?>
@@ -140,7 +140,7 @@ if($donasi == '0' && $trial=='0'){
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
@@ -163,7 +163,7 @@ if($donasi == '0' && $trial=='0'){
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>

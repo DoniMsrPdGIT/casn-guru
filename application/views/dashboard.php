@@ -63,7 +63,7 @@
             </div>
 	
             <div class="box-body">
-                <p>Fitur Website CAT CASN Guru :<br />- 1.900++ Bank Soal, diacak by system🌟<br />- Soal selalu Update tiap hari🌟<br />- Tryout CAT dibagi per Sesi🌟<br />- Informasi Passing Grade tiap Sesi🌟<br />- PDF Soal Tryout dan Pembahasan<br />- PDF Materi Pembelajaran<br />- Ranking Peserta per Sesi secara Nasional, 🌟<br />- Tryout Tanpa Batas dan Flexible, tanpa Jadwal<br />- Dilengkapi Timer<br />- Ada Aplikasi Androidnya, join di group telegram untuk mendapatkan Aplikasinya.<br />- Group Telegram utk Sharing Materi dan Aplikasi CASN Guru Android https://t.me/casn_guru<br />- Sesuai kisi-kisi MenPanRB🌟<br />- Sesuai FR Peserta 2022🌟</p>
+                <p>Fitur Website CAT CASN Guru :<br />- 1.900++ Bank Soal, diacak by system🌟<br />- Soal selalu Update tiap hari🌟<br />- Tryout CAT dibagi per Sesi🌟<br />- Informasi Passing Grade tiap Sesi🌟<br />- PDF Soal Tryout dan Pembahasan<br />- PDF Materi Pembelajaran<br />- Ranking Peserta per Sesi secara Nasional, 🌟<br />- Tryout Tanpa Batas dan Flexible, tanpa Jadwal<br />- Dilengkapi Timer<br />- Ada Aplikasi Androidnya, join di group telegram untuk mendapatkan Aplikasinya.<br />- Group Telegram utk Sharing Materi dan Aplikasi CASN Guru Android https://t.me/casn_gurusd<br />- Sesuai kisi-kisi MenPanRB🌟<br />- Sesuai FR Peserta 2022🌟</p>
             </div>
 						
         </div>
@@ -223,7 +223,7 @@
                         </div>
                         
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
                            Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
                            DCP_NAMA_NOHP_KODEUNIK<br/><br/>
                            Contoh : DCP_Andini_081234567890_51<?=substr($mhs->no_peserta,4,3)?>
@@ -262,7 +262,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
@@ -300,7 +300,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_guru"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>

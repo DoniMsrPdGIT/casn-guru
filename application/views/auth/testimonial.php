@@ -38,7 +38,7 @@
 <!-- Ganti 'path/to/your/images/' dengan lokasi aktual dari gambar Anda -->
 <?php for ($i = 1; $i <= 66; $i++): ?>
     <div class="container">
-        <img src="../uploads/testimonial/casn_guru_<?php echo $i; ?>.jpg" alt="CAT_Guru kelas_<?php echo $i; ?>">
+        <img src="../uploads/testimonial/casn_gurusd_<?php echo $i; ?>.jpg" alt="CAT_Guru kelas_<?php echo $i; ?>">
     </div>
 <?php endfor; ?>
 
