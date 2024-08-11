@@ -63,7 +63,7 @@
             </div>
 	
             <div class="box-body">
-                <p>Fitur Website CAT CASN Guru :<br />- 1.900++ Bank Soal, diacak by system🌟<br />- Soal selalu Update tiap hari🌟<br />- Tryout CAT dibagi per Sesi🌟<br />- Informasi Passing Grade tiap Sesi🌟<br />- PDF Soal Tryout dan Pembahasan<br />- PDF Materi Pembelajaran<br />- Ranking Peserta per Sesi secara Nasional, 🌟<br />- Tryout Tanpa Batas dan Flexible, tanpa Jadwal<br />- Dilengkapi Timer<br />- Ada Aplikasi Androidnya, join di group telegram untuk mendapatkan Aplikasinya.<br />- Group Telegram utk Sharing Materi dan Aplikasi CASN Guru Android https://t.me/casn_gurusd<br />- Sesuai kisi-kisi MenPanRB🌟<br />- Sesuai FR Peserta 2022🌟</p>
+                <p>Fitur Website CAT CASN Guru :<br />- 1.900++ Bank Soal, diacak by system🌟<br />- Soal selalu Update tiap hari🌟<br />- Tryout CAT dibagi per Sesi🌟<br />- Informasi Passing Grade tiap Sesi🌟<br />- PDF Soal Tryout dan Pembahasan<br />- PDF Materi Pembelajaran<br />- Ranking Peserta per Sesi secara Nasional, 🌟<br />- Tryout Tanpa Batas dan Flexible, tanpa Jadwal<br />- Dilengkapi Timer<br />- Group Telegram utk Sharing Materi  https://t.me/casn_gurusd<br />- Sesuai kisi-kisi MenPanRB🌟<br />- Sesuai FR Peserta 2022🌟</p>
             </div>
 						
         </div>
@@ -132,8 +132,7 @@
 ✅Tryout 10 Paket Soal Wawancara<br />
 ✅10 eBook PDF Materi Belajar sesuai Kisi-kisi MenpanRB dan FR Peserta Ujian,&nbsp;<br />
 ✅5 eBook PDF Soal dan Pembahasan (Kmpetensi Teknis)&nbsp;<br />
-✅Video Materi Belajar.&nbsp;<br />
-✅Android CASN-Guru download di Playstore</p>
+✅Video Materi Belajar.&nbsp;</p>
 
                         </div>
 						<!--
@@ -156,8 +155,7 @@
 ✅Tryout 10 Paket Soal Tes Karakteristik Pribadi (TKP)<br />
 ✅10 eBook PDF Materi Belajar sesuai Kisi-kisi MenpanRB dan FR Peserta Ujian,&nbsp;<br />
 ✅5 eBook PDF Soal dan Pembahasan (SKD)&nbsp;<br />
-✅Video Materi Belajar.&nbsp;<br />
-✅Android CASN-Guru download di Playstore</p>
+✅Video Materi Belajar.&nbsp;</p>
 
                         </div>
 						<!--
@@ -180,8 +178,7 @@
 ✅Tryout 10 Paket Soal Tes Karakteristik Pribadi (TKP)<br />
 ✅10 eBook PDF Materi Belajar sesuai Kisi-kisi MenpanRB dan FR Peserta Ujian,&nbsp;<br />
 ✅5 eBook PDF Soal dan Pembahasan (Kompetensi Bidang)&nbsp;<br />
-✅Video Materi Belajar.&nbsp;<br />
-✅Android CASN-Guru download di Playstore</p>
+✅Video Materi Belajar.&nbsp;</p>
 
                         </div>
 						<!--
