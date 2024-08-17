@@ -275,11 +275,11 @@
 			<?php endif; ?>
 			<li class="header">MODUL</li>
 			<?php if($this->ion_auth->is_admin()) : ?>
-			<li class="<?=$page==='Mahasiswa/berkas'?"active":""?>">
+			<!-- <li class="<?=$page==='Mahasiswa/berkas'?"active":""?>">
 				<a href="<?=base_url('Mahasiswa/berkas')?>" rel="noopener noreferrer">
 					<i class="glyphicon glyphicon-folder-close"></i> <span>Berkas</span>
 				</a>
-			</li>
+			</li> -->
 			<?php endif; ?>
 			<!--<li class="<?=$page==='sertifikat'?"active":""?>">
 				<a href="<?=base_url('Sertifikat')?>" rel="noopener noreferrer">

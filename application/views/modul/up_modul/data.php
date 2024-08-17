@@ -1,5 +1,5 @@
    <!-- DataTables -->
-  <link rel="stylesheet" href="<?= base_url('assets/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css')?>">
+   <link rel="stylesheet" href="<?= base_url('assets/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css')?>">
 
 <div class="box">
     <div class="box-header with-border">
@@ -18,7 +18,7 @@
 		<?php if($user->activation_code=='1' ){ ?>
 				<!-- keterangan modul-->
 				 <div class="callout callout-warning">
-                           Modul Materi / eBook akan diperbaharui serta ditambah setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CASN-Guru.com<br/>
+                           Modul Materi / eBook akan diperbaharui serta ditambah setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CAT-Prakom.com<br/>
 						   <b>Terima kasih telah donasi.</b>
                         </div>
 							 <div class="callout callout-danger">
@@ -28,7 +28,7 @@
                         <?php }elseif($user->activation_code=='2' ){ ?>
 				<!-- keterangan modul-->
 				 <div class="callout callout-warning">
-                           Modul Materi / eBook akan diperbaharui serta ditambah setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CASN-Guru.com<br/>
+                           Modul Materi / eBook akan diperbaharui serta ditambah setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CAT-Prakom.com<br/>
 						   <b>Terima kasih telah donasi.</b>
                         </div>
 							 <div class="callout callout-danger">
@@ -38,7 +38,7 @@
                         <?php }elseif($user->activation_code=='3' ){ ?>
 				<!-- keterangan modul-->
 				 <div class="callout callout-warning">
-                           Modul Materi / eBook akan diperbaharui serta ditambah setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CASN-Guru.com<br/>
+                           Modul Materi / eBook akan diperbaharui serta ditambah setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CAT-Prakom.com<br/>
 						   <b>Terima kasih telah donasi.</b>
                         </div>
 							 <div class="callout callout-danger">
@@ -57,10 +57,10 @@
 	</style>
     <?php if(($user->activation_selector=='1' && $user->activation_code=='0' && $user->remember_selector!='15' )){ ?>
 	 <div class="callout callout-warning">
-                           Modul Materi / eBook akan diperbaharui setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CASN-Guru.com<br/>
-						   <b>Konsep Penyusunan Bank Soal CASN-Guru bersumber dari :</b><br/>
-- FR Ujian CPNS SKB Guru kelas 2021<br/>
-- FR Ujian PPPK Teknis Guru kelas 2022 & 2023<br/>
+                           Modul Materi / eBook akan diperbaharui setiap waktu, sesuai FR Peserta Ujian CASN 2024. Jadi pantau terus website CAT-Prakom.com<br/>
+						   <b>Konsep Penyusunan Bank Soal CAT-Prakom bersumber dari :</b><br/>
+- FR Ujian CPNS SKB Prakom 2021<br/>
+- FR Ujian PPPK Teknis Prakom 2022 & 2023<br/>
 - Kisi-kisi permenpanRB<br/>
 - Pengembangan materi/garis besar terkait Kisi-kisi dan FR
                         </div>
@@ -71,7 +71,7 @@
                         </div>
 	 <div class="callout callout-warning">
                            Silakan Donasi <del>Rp 100.000</del> <b>Rp 50.000</b>&nbsp;<span class="badge badge-danger">Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
-						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
+						   <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
                         </div>
 						
 						<img src="assets/logo/qris_new.png" class="center"/>
@@ -85,7 +85,7 @@
                         </div>
 						
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CAT-Prakom.com</a></b><br/>
 						   Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
 						   DCP_NAMA_NOHP_KODEUNIK<br/><br/>
 						   Contoh : DCP_Andini_081234567890_51<?=substr($mhs->no_peserta,4,3)?>
@@ -94,49 +94,50 @@
                         </div>
 						<?php }elseif(($user->activation_selector=='0' && $user->activation_code=='0' && $user->remember_selector!='15')){ ?>
 <div class="callout callout-warning">
-                           Silakan Donasi <b>Rp 35.000</b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
-                           <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
+                           Silakan Donasi <b>Rp 100.000</b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
+                           <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
                         </div>
                         
                         <img src="assets/logo/qris_new.png" class="center"/>
-                         <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
+                         <h4 align="center"><b>Rp 101.<?=substr($mhs->no_peserta,4,3)?></b></h4>
                         <br/>
                          <div class="callout callout-danger">
-                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 35.000 + Nomor Peserta<br/>
+                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 100.000 + Nomor Peserta<br/>
                          == Nomor Peserta Anda adalah <?=$mhs->no_peserta?> ==<br/>
-                         <b>Maka Donasi sebesar Rp. 35.<?=substr($mhs->no_peserta,4,3)?></b><br/>
+                         <b>Maka Donasi sebesar Rp. 101.<?=substr($mhs->no_peserta,4,3)?></b><br/>
                          Pembayaran via QRIS diatas, Otomatis Teraktivasi. <br/> 🌟🌟 Akun Berlaku Selama CASN 2024
                         </div>
                         
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CAT-Prakom.com</a></b><br/>
                            Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
                            DCP_NAMA_NOHP_KODEUNIK<br/><br/>
-                           Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
+                           Contoh : DCP_Andini_081234567890_101<?=substr($mhs->no_peserta,4,3)?>
                            </br></br>
                            <b>Admin akan melakukan pengecekan terlebih dahulu</b>
                         </div>
                         <?php }elseif($user->remember_selector=='15' && $user->activation_code=='0'){ ?>
 <div class="callout callout-warning">
-                           Silakan Donasi <b>Rp 35.000</b>&nbsp;<span class="badge badge-success">Paket Fokus SKD CPNS</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
-                           <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
+                           Silakan pilih program, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
+                           <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
                         </div>
                         
                         <img src="assets/logo/qris_new.png" class="center"/>
-                         <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
+                        <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b>&nbsp;<span class="badge badge-success">Paket Fokus Tryout SKD CPNS</span></h4>
+                        <h4 align="center"><b>Rp 71.<?=substr($mhs->no_peserta,4,3)?></b>&nbsp;<span class="badge badge-danger">Paket Fokus Tryout SKD CPNS + Bimbel Kelas Online via Zoom</span></h4>
                         <br/>
                          <div class="callout callout-danger">
-                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 35.000 + Nomor Peserta<br/>
+                         Donasi dg Kode Unik [Nomor Peserta] => Rp. 35.000/Rp. 70.000 + Nomor Peserta<br/>
                          == Nomor Peserta Anda adalah <?=$mhs->no_peserta?> ==<br/>
-                         <b>Maka Donasi sebesar Rp. 35.<?=substr($mhs->no_peserta,4,3)?></b><br/>
+                         <b>Maka Donasi sebesar Rp. 35.<?=substr($mhs->no_peserta,4,3)?>/Rp. 71.<?=substr($mhs->no_peserta,4,3)?></b><br/>
                          Pembayaran via QRIS diatas, Otomatis Teraktivasi. <br/> 🌟🌟 Akun Berlaku Selama CASN 2024
                         </div>
                         
   <div class="callout callout-warning">
-                           Klik untuk Join di <b><a href="https://t.me/casn_gurusd"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CASN-Guru.com</a></b><br/>
+                           Klik untuk Join di <b><a href="https://t.me/cat_prakom"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;Group Telegram CAT-Prakom.com</a></b><br/>
                            Silakan Konfirmasi di grup jika sudah Donasi, namun belum Aktif dengan format :<br/>
                            DCP_NAMA_NOHP_KODEUNIK<br/><br/>
-                           Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>
+                           Contoh : DCP_Andini_081234567890_35<?=substr($mhs->no_peserta,4,3)?>/70<?=substr($mhs->no_peserta,4,3)?>
                            </br></br>
                            <b>Admin akan melakukan pengecekan terlebih dahulu</b>
                         </div>
@@ -148,7 +149,6 @@
                 <tr>
                     <th style="width: 5px;">No.</th>
                     <th>Nama eBook / Materi</th>
-					 <th>Edisi</th>
                     <th>Download File PDF</th>
                     <?php if( $this->ion_auth->is_admin() || $this->ion_auth->in_group('dosen') ) : ?>
                     <th>Aksi</th>
@@ -162,16 +162,15 @@
             	 ?>
             	<tr>
             		<td><?= $no++; ?></td>
-            		<td><?= $vm->nama_modul ?></td>
-					<td><?= $vm->edisi ?></td>
+            		<td><?= $vm->nama_modul ?><br/><small><font color="grey"><?= $vm->edisi ?></font></small></td>
 					<?php if($user->activation_code=='1' || $user->activation_code=='2' || $user->activation_code=='3' ){ ?>
-					<td><a href="<?= base_url('uploads/modul/'.$vm->isi_modul)?>" target="_blank"><img src="<?= base_url('assets/logo/icon.png')?>" style="width:50px;"></a></td>
+					<td><a href="<?= $vm->link?>" target="_blank"><img src="<?= base_url('assets/logo/icon.png')?>" style="width:50px;"></a></td>
 					<?php }else{ ?>
 		<td><a href="#"><img src="<?= base_url('assets/logo/icon.png')?>" style="width:50px;"></a></td>
 					<?php } ?>
             		
             		<?php if( $this->ion_auth->is_admin() || $this->ion_auth->in_group('dosen') ) : ?>
-            		<td style="width: 5px;"><a href="<?= base_url('C_Modul/del_modul/'.$vm->id_modul.'/'.$vm->isi_modul)?>" class="btn btn-danger btn-md"><i class="fa fa-trash"></i></a></td>
+            		<td style="width: 5px;"><a href="<?= base_url('C_Modul/del_modul/'.$vm->id_modul)?>" class="btn btn-danger btn-md"><i class="fa fa-trash"></i></a></td>
             		<?php endif; ?>
             	</tr>
             <?php } ?>
