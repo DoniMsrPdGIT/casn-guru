@@ -308,9 +308,9 @@ $manual_activation = $this->config->item('manual_activation', 'ion_auth');
 $username = "cat39971_donimsrpd";
 $password = "aquansite1993";
 $dbname = "cat39971_guru_casndb";
-<!-- $username = "root";
-$password = "";
-$dbname = "guru_casndb"; -->
+//$username = "root";
+//$password = "";
+//$dbname = "guru_casndb"; 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
@@ -368,9 +368,9 @@ if ($conn->connect_error) {
 $username = "cat39971_donimsrpd";
 $password = "aquansite1993";
 $dbname = "cat39971_guru_casndb";
-<!-- $username = "root";
-$password = "";
-$dbname = "guru_casndb"; -->
+// $username = "root";
+// $password = "";
+// $dbname = "guru_casndb"; 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
