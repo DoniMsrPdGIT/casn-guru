@@ -74,7 +74,7 @@
 						   <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
                         </div>
 						
-						<img src="assets/logo/qris_new.png" class="center"/>
+						<img src="assets/logo/qris_new.PNG" class="center"/>
 						 <h4 align="center"><b>Rp 51.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
@@ -98,7 +98,7 @@
                            <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
                         </div>
                         
-                        <img src="assets/logo/qris_new.png" class="center"/>
+                        <img src="assets/logo/qris_new.PNG" class="center"/>
                          <h4 align="center"><b>Rp 101.<?=substr($mhs->no_peserta,4,3)?></b></h4>
                         <br/>
                          <div class="callout callout-danger">
@@ -122,7 +122,7 @@
                            <b>Donasi diperlukan guna Pengembangan Website CAT Prakom lebih baik.</b>
                         </div>
                         
-                        <img src="assets/logo/qris_new.png" class="center"/>
+                        <img src="assets/logo/qris_new.PNG" class="center"/>
                         <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b>&nbsp;<span class="badge badge-success">Paket Fokus Tryout SKD CPNS</span></h4>
                         <h4 align="center"><b>Rp 71.<?=substr($mhs->no_peserta,4,3)?></b>&nbsp;<span class="badge badge-danger">Paket Fokus Tryout SKD CPNS + Bimbel Kelas Online via Zoom</span></h4>
                         <br/>

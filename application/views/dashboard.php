@@ -209,7 +209,7 @@
 ✅ Aktivasi Member Berlaku selama CASN 2024
                         </div>
                         
-                        <img src="assets/logo/qris_new.png" class="center"/>
+                        <img src="assets/logo/qris_new.PNG" class="center"/>
                          <h4 align="center"><b>Rp 51.<?=substr($mhs->no_peserta,4,3)?></b></h4>
                         <br/>
                          <div class="callout callout-danger">
@@ -248,7 +248,7 @@
 ✅ Aktivasi Member Berlaku selama CASN 2024
                         </div>
 						
-						<img src="assets/logo/qris_new.png" class="center"/>
+						<img src="assets/logo/qris_new.PNG" class="center"/>
 						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
@@ -286,7 +286,7 @@
 ✅ Aktivasi Member Berlaku selama CASN 2024
                         </div>
 						
-						<img src="assets/logo/qris_new.png" class="center"/>
+						<img src="assets/logo/qris_new.PNG" class="center"/>
 						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">

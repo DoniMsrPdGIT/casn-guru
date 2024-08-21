@@ -105,7 +105,7 @@ if($donasi == '0' && $trial=='0'){
                            Silakan Donasi <del>Rp 100.000</del> <b>Rp 50.000</b>&nbsp;<span class="badge badge-danger">Alumni 2023</span>,untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
 						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
-						<img src="../../assets/logo/qris_new.png" class="center"/>
+						<img src="../../assets/logo/qris_new.PNG" class="center"/>
 						 <h4 align="center"><b>Rp 51.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
@@ -129,7 +129,7 @@ if($donasi == '0' && $trial=='0'){
                            Silakan Donasi <b>Rp 35.000</b>&nbsp;<span class="badge badge-danger">Non-Alumni 2023</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
 						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
-						<img src="../../assets/logo/qris_new.png" class="center"/>
+						<img src="../../assets/logo/qris_new.PNG" class="center"/>
 						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
@@ -152,7 +152,7 @@ if($donasi == '0' && $trial=='0'){
                            Silakan Donasi <b>Rp 35.000</b>&nbsp;<span class="badge badge-success">Paket Fokus SKD CPNS</span>, untuk bisa mengakses Seluruh Sesi Ujian + Akses Modul eBook Materi + Fitur kedepannya.<br/>
 						   <b>Donasi diperlukan guna Pengembangan Website CASN Guru lebih baik.</b>
                         </div>
-						<img src="../../assets/logo/qris_new.png" class="center"/>
+						<img src="../../assets/logo/qris_new.PNG" class="center"/>
 						 <h4 align="center"><b>Rp 35.<?=substr($mhs->no_peserta,4,3)?></b></h4>
 						<br/>
 						 <div class="callout callout-danger">
