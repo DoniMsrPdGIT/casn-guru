@@ -28,10 +28,29 @@
                         <small class="help-block"></small>
                     </div>
                     <div class="form-group col-sm-12">
-                        <label for="last_name">Melamar</label>
-                        <input type="text" name="last_name" class="form-control" value="<?=$users->last_name?>">
-                        <small class="help-block"></small>
-                    </div>
+    <label for="last_name">Melamar</label>&nbsp;&nbsp;<font color="red"><small>Hapus untuk reset Formasi</small></font>
+    <input type="text" name="last_name" class="form-control" value="<?=$users->last_name?>">
+    <small class="help-block"></small>
+    <?php
+        $badges = [
+            '1' => ['bg-green', 'PPPK Guru Kelas Ahli Pertama'],
+            '2' => ['bg-green', 'PPPK Guru Matematika Ahli Pertama'],
+            '3' => ['bg-red', 'CPNS - Guru Kelas Ahli Pertama'],
+            '4' => ['bg-red', 'CPNS - Guru Matematika Ahli Pertama'],
+            '15' => ['bg-yellow', 'Bimbel Fokus SKD CPNS'],
+        ];
+
+        if (isset($badges[$users->remember_selector])) {
+            $badgeClass = $badges[$users->remember_selector][0];
+            $badgeText = $badges[$users->remember_selector][1];
+        } else {
+            $badgeClass = 'bg-primary';
+            $badgeText = 'Formasi Kosong';
+        }
+
+        echo "<div class='text-center'><span class='badge $badgeClass'>$badgeText</span></div>";
+    ?>
+</div>
                 </div>
                 <div class="form-group">
                     <label for="email">Email</label>

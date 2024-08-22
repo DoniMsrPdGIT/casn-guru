@@ -53,22 +53,56 @@ $(document).ready(function() {
             { data: "no_peserta" },
             { data: "username" },
             { data: "email" },
-            { data: "last_name" },
+            { data: "remember_selector" },
             { data: "created_on" }
         ],
         columnDefs: [
+            // {
+            //     targets: 5,
+            //     data: "last_name",
+            //     render: function(data, type, row, meta) {
+            //         return `<div class="text-center">
+            //                 <span class="badge">${data}</span>
+            //             </div>`;
+            //     }
+            // },
             {
                 targets: 5,
-                data: "last_name",
+                orderable: true,
+                searchable: false,
+                title: "Instansi",
+                data: "remember_selector",
                 render: function(data, type, row, meta) {
-                    return `<div class="text-center">
-                            <span class="badge">${data}</span>
-                        </div>`;
+                    if (data === "1") {
+                        return `<div class="text-center">
+                                <span class="badge bg-green">PPPK Guru - Guru Kelas Ahli Pertama</span>
+                            </div>`;
+                    }else if (data === "2") {
+                        return `<div class="text-center">
+                                <span class="badge bg-green">PPPK Guru - Guru Matematika Ahli Pertama</span>
+                            </div>`;
+                    } else if (data === "3") {
+                        return `<div class="text-center">
+                                <span class="badge bg-red">CPNS - Guru Kelas Ahli Pertama</span>
+                            </div>`;
+                    } else if (data === "4") {
+                        return `<div class="text-center">
+                                <span class="badge bg-red">CPNS - Guru Matematika Ahli Pertama</span>
+                            </div>`;
+                    }  else if (data === "15") {
+                        return `<div class="text-center">
+                                <span class="badge bg-yellow">Bimbel Fokus SKD CPNS</span>
+                            </div>`;
+                    } else {
+                        return `<div class="text-center">
+                                <span class="badge bg-primary">Formasi Kosong</span>
+                            </div>`;
+                    }
                 }
             },
             {
                 targets: 7,
-                orderable: false,
+                orderable: true,
                 searchable: false,
                 title: "Status",
                 data: "activation_code",
