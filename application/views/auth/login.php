@@ -15,7 +15,7 @@
 
 <style>
     .elegant-button {
-        background-color: #4CAF50; /* Warna latar belakang */
+        background-color: #4CAF50; /* Warna latar belakang guru*/
         color: white; /* Warna teks */
         padding: 5px 5px; /* Padding di sekitar teks */
         cursor: pointer; /* Ubah cursor ketika mouse berada di atas tombol */
